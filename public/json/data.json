@@ -1,0 +1,52 @@
+{
+   "name": "~",
+   "type": "dir",
+   "contents": [
+      {
+         "name": "README",
+         "type": "text",
+         "contents": "My name is Kwin. I am a Front End Developer. This is my <a class=\"exec\" target=\"_blank\" href=\"http://vblog.win\">website</a>.<br/>You can find the source code to make your very own on <a class=\"exec\" target=\"_blank\" href=\"http://github.com/wangqingkai/simulationLinuxIndex\">GitHub</a>.<br/><br/>If you need help, type \"help\".<br/><br/>You can contact me at <a class=\"exec\" href='mailto:wangqk001@gmail.com'>wangqk001@gmail.com</a>."
+      },
+      {
+         "name": "resume",
+         "type": "exec",
+         "contents": ""
+      },
+      {
+         "name": "projects",
+         "type": "dir",
+         "contents": [
+            {
+               "name": "website",
+               "type": "exec",
+               "contents": "http://vblog.win/",
+               "description": "Welcome to visit"
+            },
+            {
+               "name": "GitHub",
+               "type": "exec",
+               "contents": "http://github.com/wangqingkai",
+               "description": "Welcome to visit"
+            },
+            {
+               "name": "cnblogs",
+               "type": "exec",
+               "contents": "http://www.cnblogs.com/kaidarwang/",
+               "description": "Welcome to visit"
+            }
+         ]
+      },
+      {
+         "name": "images",
+         "type": "dir",
+         "contents": [
+            {
+               "name": "pic.jpg",
+               "type": "img",
+               "contents": "",
+               "caption": ""
+            }
+         ]
+      }
+   ]
+}
